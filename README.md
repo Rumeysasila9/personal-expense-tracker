@@ -30,7 +30,7 @@ This project is a simple expense tracker built with Python, created to practice 
 1. Clone this repository:
    
    ```bash
-   git clone https://github.com/Rumeysasila9/personal-expense-tracker-.git 
+   git clone https://github.com/Rumeysasila9/personal-expense-tracker.git 
    ```
 2. Open the project folder in VS Code.
 
@@ -39,7 +39,7 @@ This project is a simple expense tracker built with Python, created to practice 
 4. Run the program:     
 
    ```bash
-   python expense_tracker.py
+   python personal_expense_tracker.py
    ```
 
 
